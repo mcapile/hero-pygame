@@ -2,18 +2,6 @@
 
 A simple but complete platformer game built with **PgZero**, fully compatible with strict educational project requirements.
 
-## 🎯 Project Requirements Covered
-
-✅ Platformer with side view  
-✅ Hero and enemies with sprite animation (idle + walking)  
-✅ Background music and sound effects (can be toggled)  
-✅ Menu with Start Game, Toggle Sound, and Quit buttons  
-✅ Enemies patrol in territory and can harm the hero  
-✅ Hero jumps and is affected by gravity  
-✅ Sprite collision logic (hero resets when touching enemies from the side)  
-✅ Clear code with PEP8 naming in English  
-✅ Code entirely original and bug-free
-
 ---
 
 ## 📦 Folder Structure
@@ -59,10 +47,6 @@ pgzrun main.py
 
 ---
 
-## 📌 Notes
-
-- Sprites are minimal pixel art created for demo purposes.
-- Music and sound are **disabled by default** to ensure compatibility with all environments. You can enable them by uncommenting the relevant lines in `main.py`.
 
 ---
 
