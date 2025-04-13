@@ -48,12 +48,4 @@ pgzrun main.py
 ---
 
 
----
 
-## 💡 Want to Customize?
-
-You can replace the images in the `images/` folder with your own sprites — just keep the filenames the same (`hero_idle_1.png`, etc).
-
----
-
-## 🚀 Created with ❤️ using Python, PgZero, and imagination!
